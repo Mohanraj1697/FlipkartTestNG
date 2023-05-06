@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+      <class name="org.test.Sample">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforeClass" is-config="true" duration-ms="7" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.test.Sample@6121c9d6]" name="test1" duration-ms="3" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.test.Sample@6121c9d6]" name="test2" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.test.Sample@6121c9d6]" name="test3" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="2" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.test.Sample@6121c9d6]" name="test4" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:org.test.Sample@6121c9d6]" name="test5" duration-ms="2" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:org.test.Sample@6121c9d6]" name="beforMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:org.test.Sample@6121c9d6]" name="test6" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:org.test.Sample@6121c9d6]" name="after" is-config="true" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.test.Sample@6121c9d6]" name="afterClass" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.test.Sample -->
+      <class name="org.test.Sample1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.test.Sample1@87f383f]" name="test1" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeClass" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.test.Sample1@87f383f]" name="test2" duration-ms="2" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.test.Sample1@87f383f]" name="test3" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.test.Sample1@87f383f]" name="test4" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testA1()[pri:0, instance:org.test.Sample1@87f383f]" name="testA1" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testA2()[pri:0, instance:org.test.Sample1@87f383f]" name="testA2" duration-ms="2" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.test.Sample1@87f383f]" name="afterMethod" is-config="true" duration-ms="2" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.test.Sample1@87f383f]" name="afterClass" is-config="true" duration-ms="3" started-at="2023-02-22T10:50:04Z" finished-at="2023-02-22T10:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.test.Sample1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
